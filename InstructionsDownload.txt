@@ -1,0 +1,31 @@
+Step 1: 
+go to
+https://accounts.unrealengine.com/register?lang=en_US&redirectUrl=https%3A%2F%2Fwww.unrealengine.com%2Fdownload%3Fdismiss%3Dhttps%253A%252F%252Fwww.unrealengine.com%252F&client_id=43e2dea89b054198a703f6199bee6d5b&noHostRedirect=true
+and create an Epic Games account
+
+Step 2:
+Download and install the Epic Games Launcher
+
+Step 3:
+(Log in)
+In the Epic Games Launcher click on the tab "Unreal Engine" and download the Unreal Engine (on the left)
+
+And finally:
+Create a project via Blueprint or c++ - your choice. (For the demo I will simply use a blueprint)
+
+
+If you are interested, watch these video tutorials about the basics of the Unreal Engine
+https://docs.unrealengine.com/latest/INT/Videos/
+or visit the Unreal Engine Community Wiki
+https://wiki.unrealengine.com/Main_Page
+
+
+
+I recommend to bring a mouse ;)
+
+
+Camera movement:
+Right-klick and hold to look around in every direction.
+Left-klick and hold to look around in the x/y - axis. Move the mouse forward / backward to do so with the camera.
+Right- and left-klick and hold to move on the x axis. Move the mouse forward / backward to move on the z axis.
+
